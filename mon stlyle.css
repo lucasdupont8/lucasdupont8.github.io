@@ -1,0 +1,97 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 oct. 2021, 14:47:39
+    Author     : ldupont
+*/
+
+body {
+    background-color: gray;
+}
+#test>h1{
+    border: 15px solid green;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 25px;
+    width: 300px;
+    height: 50px;
+    background-color: aqua;
+}
+.important{
+    margin: 10px;
+    padding: 5px;
+    background-color: lightsteelblue;
+    border: 1px black solid;
+    width: 100px
+}
+h1{
+    color: blue;
+    front-family: serif;
+    front-size: 20px;
+    margin-left: 20px;
+}
+#menu>ul{
+    list-style-type: none;
+}
+#menu>li>ul>li{
+    padding: 5px;
+    background-color: aqua;
+    border-radius: 5px;
+    margin: 5px;
+    width: 50px;
+}
+div.stat{
+    position: static;
+    padding: 20px;
+    border: 3px solid coral;
+    width: 310px;
+}
+div.rela{
+    position: relative;
+    border: 3px solid coral;
+    left: 30px;
+    padding: 20px;
+    width: 310px;
+}
+div.fi{
+    position: sticky;
+    position: -webkit-sticky;
+    border: 2px solid cardetblue;
+    padding: 5px;
+    top: 30px;
+    width: 200px;
+    background-color: beige;
+}
+
+
+div.relative{
+    position: relative;
+    border: 3px solid coral;
+    height: 200px;
+    width: 400px;
+}
+div.fixe{
+    position: fixed;
+    padding: 20px;
+    border: 3px solid coral;
+    right: 0px;
+    bottom: 0px;
+}
+div.absolue{
+    position: absolute;
+    top: 80px;
+    right: 5px;
+    bottom: 5px;
+    width: 200px;
+    height: 100px;
+    border: 3px solid coral;
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
