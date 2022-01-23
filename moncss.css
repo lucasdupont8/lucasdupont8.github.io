@@ -1,0 +1,90 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 23 déc. 2021, 15:16:27
+    Author     : lucas
+*/
+#tableauinvisible{
+    padding-right: 5%;
+    padding-left: 5%;
+    width: 90%;
+    border: 0;
+    cellspacing: 0;
+    cellpadding: 0;
+}
+#textetimage{
+    color: black;
+    front-family: serif;
+    font-size: 25px;
+    text-align: right;
+}
+#liste{
+    padding-left: 20%;
+    padding-right: 20%;
+    front-family: serif;
+    font-size: 25px;
+}
+#fond{
+    background-color:black;
+    background-image:url(xbox-logo.png);
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    background-position:center center;
+    background-size: 100%;
+}
+#home{
+    background-color: black
+}
+#text-blanc{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+#text{
+    color: black;
+    front-family: serif;
+    font-size: 25px;
+    text-align: center;
+}
+#textmaj{
+    color: black;
+    front-family: serif;
+    font-size: 40px;
+    text-align: center;
+}
+#textpetit{
+    color: black;
+    front-family: serif;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+caption{
+    color: black;
+    front-family: serif;
+    font-size: 25px;
+}
+
+#table{
+    position:relative;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: 10%;
+    width: 80%;
+    border: 0;
+    cellspacing: 0;
+    cellpadding: 0;
+}
+#videos{
+    width: 90%;
+    padding-left: 10%;
+}
+#videox{
+    width: 80%;
+}
+#imagedimx{
+    width: 60%;
+}
