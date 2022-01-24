@@ -27,7 +27,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
     font-size: 25px;
 }
 #fond{
-    background-color:black;
+    background-color:white;
     background-image:url(xbox-logo.png);
     background-attachment:fixed;
     background-repeat:no-repeat;
